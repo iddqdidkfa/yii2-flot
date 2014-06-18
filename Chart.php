@@ -1,7 +1,7 @@
 <?php
 
 
-namespace yii\flot;
+namespace softcommerce\flot;
 
 
 use yii\base\Widget;
