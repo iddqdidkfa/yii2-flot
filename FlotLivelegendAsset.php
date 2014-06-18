@@ -12,6 +12,6 @@ class FlotLivelegendAsset extends AssetBundle {
     ];
 
     public $depends = [
-        'yii\flot\FlotAsset',
+        'softcommerce\flot\FlotAsset',
     ];
 } 

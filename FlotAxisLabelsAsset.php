@@ -11,6 +11,6 @@ class FlotAxisLabelsAsset extends AssetBundle {
 	public $js = ['js/jquery.flot.axislabels.min.js'];
 
 	public $depends = [
-		'yii\flot\FlotAsset',
+		'softcommerce\flot\FlotAsset',
 	];
 } 

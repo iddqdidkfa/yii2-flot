@@ -12,6 +12,6 @@ class FlotPieAsset extends AssetBundle {
 	public $css = ['css/jquery.flot.pie.min.css'];
 
 	public $depends = [
-		'yii\flot\FlotAsset',
+		'softcommerce\flot\FlotAsset',
 	];
 } 

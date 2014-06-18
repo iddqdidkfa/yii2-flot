@@ -11,6 +11,6 @@ class FlotTimeAsset extends AssetBundle {
 	public $js = ['js/jquery.flot.time.min.js'];
 
 	public $depends = [
-		'yii\flot\FlotAsset',
+		'softcommerce\flot\FlotAsset',
 	];
 } 

@@ -12,6 +12,6 @@ class FlotTooltipAsset extends AssetBundle {
     public $css = ['css/jquery.flot.tooltip.min.css'];
 
 	public $depends = [
-		'yii\flot\FlotAsset',
+		'softcommerce\flot\FlotAsset',
 	];
 } 

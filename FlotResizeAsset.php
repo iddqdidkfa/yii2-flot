@@ -11,6 +11,6 @@ class FlotResizeAsset extends AssetBundle {
 	public $js = ['js/jquery.flot.resize.min.js'];
 
 	public $depends = [
-		'yii\flot\FlotAsset',
+		'softcommerce\flot\FlotAsset',
 	];
 } 
