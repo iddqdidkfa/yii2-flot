@@ -13,7 +13,8 @@
     ],
     "require": {
         "yiisoft/yii2": "*",
-        "yiisoft/jquery": "*"
+        "yiisoft/jquery": "*",
+        "softcommerce/jquery-flot": "*"
     },
     "autoload": {
         "psr-4": {
